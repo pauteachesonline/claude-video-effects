@@ -110,7 +110,26 @@ You can stack effects in one go: *"Add locked-on from 6 to 10s, then orbit from 
 | **70** | `poster-de-vidrio` | Tu fondo se ve a través de vidrio acanalado y emerge un póster de vidrio esmerilado en 3D con un título cromado y brillante. |
 | **71** | `la-camara-se-aleja` | Tu vídeo se encoge hasta convertirse en una tarjeta central dentro de una pared de 13 tarjetas en bucle con los efectos anteriores. |
 | **72** | `ponme-en-otro-lugar` | Te saca de tu cuarto para ubicarte en un escenario fotorrealista generado por IA (como un penthouse), integrando iluminación de ventanas, sombras y grano uniforme. |
-
+| **73** | `orbita` | Iconos de edición que giran en una órbita alrededor de tu cabeza y pasan por detrás de ti. |
+| **74** | `chat a pantalla completa` | Tu vídeo entra en un chat de Claude que va marcando lo que hace. |
+| **75** | `salir del marco` | Tu vídeo se encoge hasta una foto y tu cabeza se sale por delante del borde. |
+| **76** | `zoom de golpe` | La imagen se acerca de repente. |
+| **77** | `lista que aparece` | Píldoras con ticks que salen una a una a un lado. |
+| **78** | `lluvia de titulares` | Tiras de titulares que entran volando a tu alrededor, algunas por detrás de ti. |
+| **79** | `portal` | Un círculo detrás de tu cabeza con un plano abierto dentro, y la cámara se mete sin corte. |
+| **80** | `curva de crecimiento` | Una curva que sube y un contador de 1x a 10x. |
+| **81** | `plato` | Se apaga la habitación, se encienden unos focos y sale el cartel EN DIRECTO. |
+| **82** | `video encima` | Tu vídeo en la pantalla de un programa de edición y otro clip que entra encima. |
+| **83** | `recortable` | Tú como pegatina con borde blanco sobre un fondo naranja, con una estrella y un círculo azul. |
+| **84** | `efecto vertigo` | El fondo se acerca y tú no. |
+| **85** | `portada de revista` | Tu vídeo como portada, con tu nombre por detrás de tu cabeza. |
+| **86** | `cristal liquido` | Una lente de cristal que pasa por tu cara y la amplía. |
+| **87** | `zoom y corte` | Zoom rápido a tu cara y corte. |
+| **88** | `croma` | Detrás de ti, una tela verde de plató. |
+| **89** | `cristal roto` | La imagen se agrieta por delante de ti y se rompe en trozos. |
+| **90** | `zoom de camara` | Un visor de cámara con REC y el zoom subiendo. |
+| **91** | `dentro del movil` | Tu vídeo dentro de un móvil, con la pantalla de Reels. |
+| **92** | `lista final` | Los efectos marcándose uno a uno. |
 ```
 
 Bonus looks: `/effects glitter-spotlight` (golden rays and sparkles), `cover-star look=editorial` (a classic magazine cover) and `liquid-glass-graph look=bento` (a glass dashboard around you).
