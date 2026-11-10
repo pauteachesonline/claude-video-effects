@@ -94,29 +94,29 @@ You can stack effects in one go: *"Add locked-on from 6 to 10s, then orbit from 
 | 49 | `huge-strike` | Una palabra con serifa enorme llena la pared detrás de ti y una línea roja la tacha |
 | 50 | `crayon-write` | Un crayón rojo escribe tu palabra detrás de tu cabeza y la subraya |
 | 51 | `fan-build` | Las portadas de tus reels se reparten en abanico detrás de tu cabeza, una tarjeta a la vez |
-| Número | Nombre del Efecto | Descripción Principal / Activación |
-| :--- | :--- | :--- |
-| **52** | `clothespin` | Cuelga una cuerda con pinzas de madera detrás de ti; las cosas entran sujetas a ella y un *grand word* se sitúa detrás de la línea. |
+| 52 | `clothespin` | Cuelga una cuerda con pinzas de madera detrás de ti; las cosas entran sujetas a ella y un grand word se sitúa detrás de la línea. |
 | **53** | `light-trail` | Una línea fina blanca con un suave resplandor traza tu contorno. |
 | **54** | `text-behind` | Una palabra grande se sitúa detrás de ti, de modo que la cabeza cubre parte de ella. |
 | **55** | `reel-wall` | Azulejos de cristal esmerolado de tus reels anteriores flotan subiendo y bajando detrás de ti. |
 | **56** | `tiny-me` | Una copa pequeña y real de té se posa en tu propio hombro y habla a lo largo del vídeo. |
 | **57** | `reel-fan` | Un libro abierto de tus reels anteriores pasa sus páginas por encima de tu clip. |
 | **58** | `iphone` | Tu clip se reproduce en un iPhone que se encoge hacia un lado mientras se dibuja un wireframe a mano. |
-| **59** | **Íconos en órbita** | Los íconos de tus apps dan vueltas alrededor de tu cabeza en una elipse inclinada, pasando por delante y por detrás. |
-| **60** | **Dentro del chat de Claude** | Tu vídeo se encoge y entra como archivo adjunto en una interfaz realista de Claude mientras se escriben tu mensaje y la respuesta. |
-| **61** | **Me salgo del cuadro** | Tu vídeo se convierte en una tarjeta y tú creces para salirte del marco por arriba y los lados, mostrando el cuarto vacío debajo. |
-| **62** | **Zoom de cámara** | Se superpone un visor de cámara con cuadrícula y se realizan tres zooms sucesivos y cortos con sonido de enfoque siguiendo tu cara. |
-| **63** | **Mi vídeo en un teléfono en 3D** | Tu vídeo se reproduce en un iPhone 3D con interfaz de Reels que gira suavemente y entra desde el lateral. |
-| **64** | **Checklist de vidrio** | Una tarjeta de vidrio oscuro translúcido muestra una lista de tres pasos que se van tachando interactivamente con un visto y sonido de *ding*. |
-| **65** | **Pared de pósters** | El fondo se vuelve una pared beige y aparecen cuatro pósters con diferentes tipografías y frases pegados con cinta alrededor de tu cabeza. |
-| **66** | **Zoom con corte** | Un zoom rápido con desenfoque hacia tu cara que culmina en un corte seco de vuelta a tu encuadre con una palabra gigante y parpadeante. |
-| **67** | **Dibujos a mano** | Te conviertes en sticker con un trazo punteado alrededor y dibujos animados (corazones, corona, estrellas) que se dibujan solos temblando estilo *stop-motion*. |
-| **68** | **Gráfica que sube** | Una tarjeta de vidrio translúcido con un número grande que cuenta de 0 al valor real y barras verticales que crecen con una línea de tendencia verde. |
-| **69** | **Portada de revista** | El fondo adopta textura de papel beige, tu nombre gigante de marca en Bodoni Moda queda por detrás de tu cabeza y se añaden titulares, número y código de barras. |
-| **70** | **Póster de vidrio** | Tu fondo se ve a través de vidrio acanalado y emerge un póster de vidrio esmerilado en 3D con un título cromado y brillante. |
-| **71** | **La cámara se aleja** | Tu vídeo se encoge hasta convertirse en una tarjeta central dentro de una pared de 13 tarjetas en bucle con los efectos anteriores. |
-| **72** | **Ponme en otro lugar** | Te saca de tu cuarto para ubicarte en un escenario fotorrealista generado por IA (como un penthouse), integrando iluminación de ventanas, sombras y grano uniforme. |
+| **59** | `iconos-en-orbita` | Los íconos de tus apps dan vueltas alrededor de tu cabeza en una elipse inclinada, pasando por delante y por detrás. |
+| **60** | `dentro-del-chat-de-claude` | Tu vídeo se encoge y entra como archivo adjunto en una interfaz realista de Claude mientras se escriben tu mensaje y la respuesta. |
+| **61** | `me-salgo-del-cuadro` | Tu vídeo se convierte en una tarjeta y tú creces para salirte del marco por arriba y los lados, mostrando el cuarto vacío debajo. |
+| **62** | `zoom-de-camara` | Se superpone un visor de cámara con cuadrícula y se realizan tres zooms sucesivos y cortos con sonido de enfoque siguiendo tu cara. |
+| **63** | `mi-video-en-un-telefono-en-3d` | Tu vídeo se reproduce en un iPhone 3D con interfaz de Reels que gira suavemente y entra desde el lateral. |
+| **64** | `checklist-de-vidrio` | Una tarjeta de vidrio oscuro translúcido muestra una lista de tres pasos que se van tachando interactivamente con un visto y sonido de ding. |
+| **65** | `pared-de-posters` | El fondo se vuelve una pared beige y aparecen cuatro pósters con diferentes tipografías y frases pegados con cinta alrededor de tu cabeza. |
+| **66** | `zoom-con-corte` | Un zoom rápido con desenfoque hacia tu cara que culmina en un corte seco de vuelta a tu encuadre con una palabra gigante y parpadeante. |
+| **67** | `dibujos-a-mano` | Te conviertes en sticker con un trazo punteado alrededor y dibujos animados (corazones, corona, estrellas) que se dibujan solos temblando estilo stop-motion. |
+| **68** | `grafica-que-sube` | Una tarjeta de vidrio translúcido con un número grande que cuenta de 0 al valor real y barras verticales que crecen con una línea de tendencia verde. |
+| **69** | `portada-de-revista` | El fondo adopta textura de papel beige, tu nombre gigante de marca en Bodoni Moda queda por detrás de tu cabeza y se añaden titulares, número y código de barras. |
+| **70** | `poster-de-vidrio` | Tu fondo se ve a través de vidrio acanalado y emerge un póster de vidrio esmerilado en 3D con un título cromado y brillante. |
+| **71** | `la-camara-se-aleja` | Tu vídeo se encoge hasta convertirse en una tarjeta central dentro de una pared de 13 tarjetas en bucle con los efectos anteriores. |
+| **72** | `ponme-en-otro-lugar` | Te saca de tu cuarto para ubicarte en un escenario fotorrealista generado por IA (como un penthouse), integrando iluminación de ventanas, sombras y grano uniforme. |
+
+```
 
 Bonus looks: `/effects glitter-spotlight` (golden rays and sparkles), `cover-star look=editorial` (a classic magazine cover) and `liquid-glass-graph look=bento` (a glass dashboard around you).
 
