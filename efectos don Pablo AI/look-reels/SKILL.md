@@ -1,0 +1,11 @@
+---
+name: look-reels
+description: Diseña el look de tus reels antes de editarlos: estudia los reels de referencia que te gustan, propone tres estilos con muestras sobre un fotograma de tu propio vídeo y, cuando eliges uno, deja todo apuntado en marca.md (letras, colores, títulos, subtítulos, logo, transiciones y sonido) para que la skill editor-reels lo aplique siempre igual. Úsala la primera vez, antes de editar, o cuando quieras cambiar de estilo.
+---
+# Look de tus reels
+1. Pídeme: mi logo en PNG, mis colores si los tengo, el tono (por ejemplo: directo, de tú) y dos o tres reels que me gusten (archivos de vídeo o capturas de pantalla).
+2. Estudia cada referencia: saca fotogramas con ffmpeg en los segundos 0,5, 1,5, 3 y cada 3 segundos después. Apunta qué letra usa (con o sin serifa, gruesa o fina), dónde van los títulos (arriba, detrás de la cabeza), cómo son los subtítulos (tamaño, caja, palabra destacada), qué colores mandan, cada cuánto cambia el plano y qué gráficos salen (iconos, tarjetas, capturas).
+3. Propón tres looks distintos (A, B y C) mezclando lo que funciona de las referencias con mis colores y mi logo. Se coge el estilo, nunca la marca de otro: ni sus logos ni sus letras de pago. Usa letras gratis (Google Fonts) y descárgalas.
+4. Para cada look, haz con Python y Pillow una muestra sobre un fotograma de mi propio vídeo: el título de los 3 primeros segundos, un subtítulo con la palabra destacada y el logo. Enséñame las tres imágenes juntas. No sigas hasta que elija.
+5. Con el look elegido, escribe marca.md: colores en hexadecimal; letras con la ruta de cada archivo; título del gancho (letra, tamaño, colores, sitio); subtítulos (letra, tamaño, color, palabra destacada, altura); logo (esquina y tamaño); transiciones (cada cuánto cambia el plano, qué efectos sí y cuáles no); sonido (efectos suaves en las acciones, nunca un golpe encima de una palabra, sin música salvo que la pida); reglas fijas: nada tapa la cara, las letras no pisan el logo y en los 3 primeros segundos un solo texto grande.
+6. Haz una muestra final con todo lo de marca.md sobre otro fotograma de mi vídeo. Si le digo «me gusta», queda fijado. Lo que corrija después, apúntalo en marca.md.
