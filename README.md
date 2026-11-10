@@ -41,61 +41,68 @@ Claude checks a few frames first, fixes anything that covers your face, then ren
 
 You can stack effects in one go: *"Add locked-on from 6 to 10s, then orbit from 10 to 13s, then a reject stamp on 'no'."*
 
-## The 51 effects
-
-| # | Type this | What happens |
+| # | Tipo | Qué hace |
 |---|---|---|
-| 1 | `noise` | Reels pile up behind your head |
-| 2 | `lineup` | Numbered tiles fan out above your head |
-| 3 | `locked-on` | Brackets lock onto your face and the camera follows you |
-| 4 | `orbit` | Your reels circle your head, behind you at the top |
-| 5 | `lean-in` | A quick punch-in on one word |
-| 6 | `backdrop-word` | A giant word drops in behind you |
-| 7 | `spotlight` | Kill the lights, keep you lit |
-| 8 | `the-bill` | Your instructions print out like a receipt |
-| 9 | `moody` | A moody colour grade |
-| 10 | `swipe` | A before and after slider |
-| 11 | `todo` | A checklist beside your head that ticks off as you talk |
-| 12 | `comment-box` | An Instagram comment types itself and posts |
-| 13 | `tap` | A Follow button flips to Following |
-| 14 | `pause-point` | Freeze frame with a hand-drawn arrow |
-| 15 | `uninstall` | A glitchy uninstall bar breaks the frame |
-| 16 | `reel-frame` | Your video shrinks into a reel card |
-| 17 | `shortcut-rain` | Keyboard keys rain down behind you |
-| 18 | `reject-stamp` | A big red stamp slams down |
-| 19 | `countdown-flip` | A 3, 2, 1 flip clock above your head |
-| 20 | `rabbit-hole` | The room tunnels away behind you |
-| 21 | `cover-star` | You become a magazine cover |
-| 22 | `scribble` | Marker doodles draw themselves around you |
-| 23 | `glass-widgets` | Frosted glass widgets and mini artifacts float around your head |
-| 24 | `red-collage` | Black and white you, a giant red word behind, three lines slam in |
-| 25 | `split-headline` | A headline card slides down and pushes you to the bottom half |
-| 26 | `pastel-word` | Lavender room, a giant word behind you, a profile card gets followed |
-| 27 | `check-pills` | Grid-paper room, your reels pinned behind you, blue pills get clicked |
-| 28 | `timeline` | A dark red film look with an editing timeline and a glowing playhead |
-| 29 | `headline-box` | A punch-in with a clean two-line headline |
-| 30 | `profile-wall` | Your reels grid fills the wall while a counter ticks up |
-| 31 | `tier-list` | A tier list drops in and Claude flies into S tier |
-| 32 | `broll-split` | B-roll on top with a price-tag sticker, you below |
-| 33 | `phone-fan` | Your reels fan out like a hand of phones |
-| 34 | `dot-reveal` | Your shot builds out of glowing dots, then snaps into focus |
-| 35 | `headline-wall` | Your headlines pile up behind your head, then a total pops in front |
-| 36 | `checklist` | A Claude task list under your chin, each step ticks green |
-| 37 | `liquid-glass-graph` | A liquid glass card with a graph that climbs and a number that counts up |
-| 38 | `carousel-spin` | Your reels spin around you in a 3D carousel |
-| 39 | `match-cut` | News pages cut on one word, locked in place behind your head |
-| 40 | `apple-toggles` | iPhone switches flip on under your chin, one line at a time |
-| 41 | `led-sign` | The lights drop and a glowing LED sign types itself out behind you |
-| 42 | `slow-push` | A slow cinematic push-in while the room melts out of focus |
-| 43 | `over-the-shoulder-zoom` | Pushes into one corner, a liquid glass graph pops beside your head, then the other corner with a second graph |
-| 44 | `messages` | iMessage notifications pop in one after another with a soft glow |
-| 45 | `place-in-grid` | You shrink into the centre of your 3x3 profile grid, your reels pop in around you with view counts |
-| 46 | `tape-label` | A strip of yellow tape with your line lands on your chest |
-| 47 | `select-resize` | A blue selection box grabs your number and a cursor drags it bigger |
-| 48 | `wave-trim` | The silent parts of your voice are trimmed away on screen until only your words are left |
-| 49 | `huge-strike` | One huge serif word fills the wall behind you, then a red line crosses it out |
-| 50 | `crayon-write` | A red crayon writes your word behind your head, then underlines it |
-| 51 | `fan-build` | Your reel covers deal into a fan behind your head, one card at a time |
+| 1 | `noise` | Los reels se amontonan detrás de tu cabeza |
+| 2 | `lineup` | Mosaicos numerados se abren en abanico sobre tu cabeza |
+| 3 | `locked-on` | Los corchetes se fijan a tu cara y la cámara te sigue |
+| 4 | `orbit` | Tus reels giran alrededor de tu cabeza, detrás de ti en la parte superior |
+| 5 | `lean-in` | Un acercamiento rápido (zoom) en una sola palabra |
+| 6 | `backdrop-word` | Una palabra gigante cae detrás de ti |
+| 7 | `spotlight` | Apaga las luces y te mantiene iluminado |
+| 8 | `the-bill` | Tus instrucciones se imprimen como un ticket de compra |
+| 9 | `moody` | Una gradación de color cinematográfica y apagada |
+| 10 | `swipe` | Un control deslizante de antes y después |
+| 11 | `todo` | Una lista de tareas junto a tu cabeza que se marca a medida que hablas |
+| 12 | `comment-box` | Un comentario de Instagram se escribe solo y se publica |
+| 13 | `tap` | Un botón de Seguir cambia a Siguiendo |
+| 14 | `pause-point` | Fotograma congelado con una flecha dibujada a mano |
+| 15 | `uninstall` | Una barra de desinstalación con fallos (glitch) rompe el fotograma |
+| 16 | `reel-frame` | Tu vídeo se encoge dentro de una tarjeta de reel |
+| 17 | `shortcut-rain` | Teclas de teclado llueven detrás de ti |
+| 18 | `reject-stamp` | Un gran sello rojo cae con fuerza |
+| 19 | `countdown-flip` | Un reloj de cuenta atrás de 3, 2, 1 sobre tu cabeza |
+| 20 | `rabbit-hole` | La habitación se aleja formando un túnel detrás de ti |
+| 21 | `cover-star` | Te conviertes en la portada de una revista |
+| 22 | `scribble` | Garabatos de rotulador se dibujan solos a tu alrededor |
+| 23 | `glass-widgets` | Widgets de vidrio esmerilado y mini elementos flotan alrededor de tu cabeza |
+| 24 | `red-collage` | Tú en blanco y negro, una palabra gigante roja detrás y tres líneas que impactan |
+| 25 | `split-headline` | Una tarjeta de titular baja deslizándose y te empuja hacia la mitad inferior |
+| 26 | `pastel-word` | Habitación lavanda, una palabra gigante detrás de ti y una tarjeta de perfil recibe un seguimiento |
+| 27 | `check-pills` | Habitación con papel cuadriculado, tus reels anidados detrás y se hace clic en píldoras azules |
+| 28 | `timeline` | Un aspecto de película roja oscura con una línea de tiempo de edición y un cabezal de reproducción brillante |
+| 29 | `headline-box` | Un acercamiento con un titular limpio de dos líneas |
+| 30 | `profile-wall` | Tu cuadrícula de reels llena la pared mientras un contador aumenta |
+| 31 | `tier-list` | Una lista de clasificación (tier list) cae y Claude vuela al nivel S |
+| 32 | `broll-split` | Vídeo de apoyo (B-roll) arriba con una pegatina de precio, tú abajo |
+| 33 | `phone-fan` | Tus reels se despliegan en abanico como una mano de teléfonos |
+| 34 | `dot-reveal` | Tu plano se forma a partir de puntos brillantes y luego se enfoca de golpe |
+| 35 | `headline-wall` | Tus titulares se acumulan detrás de tu cabeza y luego aparece un total al frente |
+| 36 | `checklist` | Una lista de tareas de Claude bajo tu barbilla, cada paso se marca en verde |
+| 37 | `liquid-glass-graph` | Una tarjeta de vidrio líquido con un gráfico que asciende y un número que cuenta hacia arriba |
+| 38 | `carousel-spin` | Tus reels giran a tu alrededor en un carrusel 3D |
+| 39 | `match-cut` | Páginas de noticias cortadas en una palabra, fijadas en su lugar detrás de tu cabeza |
+| 40 | `apple-toggles` | Los interruptores de iPhone se encienden bajo tu barbilla, una línea a la vez |
+| 41 | `led-sign` | Las luces bajan y un letrero LED brillante se escribe solo detrás de ti |
+| 42 | `slow-push` | Un acercamiento cinematográfico lento mientras la habitación se desenfoca |
+| 43 | `over-the-shoulder-zoom` | Se acerca a una esquina con un gráfico de vidrio líquido junto a tu cabeza, y luego a la otra esquina con un segundo gráfico |
+| 44 | `messages` | Las notificaciones de iMessage aparecen una tras otra con un brillo suave |
+| 45 | `place-in-grid` | Te reduces al centro de tu cuadrícula de perfil de 3x3, tus reels aparecen alrededor con sus recuentos de visualizaciones |
+| 46 | `tape-label` | Una tira de cinta amarilla con tu frase aterriza en tu pecho |
+| 47 | `select-resize` | Un cuadro de selección azul agarra tu número y un cursor lo arrastra para hacerlo más grande |
+| 48 | `wave-trim` | Las partes silenciosas de tu voz se recortan en pantalla hasta que solo quedan tus palabras |
+| 49 | `huge-strike` | Una palabra con serifa enorme llena la pared detrás de ti y una línea roja la tacha |
+| 50 | `crayon-write` | Un crayón rojo escribe tu palabra detrás de tu cabeza y la subraya |
+| 51 | `fan-build` | Las portadas de tus reels se reparten en abanico detrás de tu cabeza, una tarjeta a la vez |
+| Efecto | Descripción |
+| :--- | :--- |
+| `clothesline` | Cuelga una cuerda con pinzas de madera detrás de ti; tus cosas están sujetas a ella y un gran word se sitúa detrás de la línea. Levanta la mano y un elemento sale en ella. |
+| `light trail` | Una fina línea blanca con un suave resplandor traza tu contorno. |
+| `text behind` | Una palabra grande se sitúa detrás de ti, de modo que tu cabeza cubre parte de ella. |
+| `reel wall` | Azulejos de cristal esmerilado de tus reels anteriores flotan subiendo y bajando detrás de ti. |
+| `tiny me` | Una copia pequeña y real de ti se posa en tu propio hombro y habla a lo largo del vídeo. |
+| `reel fan` | Un libro abierto de tus reels anteriores pasa sus páginas por encima de tu clip. |
+| `iphone` | Tu clip se reproduce en un iPhone que se encoge hacia un lado mientras se dibuja un wireframe a mano. |
 
 Bonus looks: `/effects glitter-spotlight` (golden rays and sparkles), `cover-star look=editorial` (a classic magazine cover) and `liquid-glass-graph look=bento` (a glass dashboard around you).
 
