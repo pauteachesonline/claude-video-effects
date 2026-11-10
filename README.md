@@ -1,10 +1,5 @@
-# 51 Free Video Effects for Claude
+# Video Effects for Claude
 
-Free viral video effects for Instagram Reels, TikTok and YouTube Shorts, made inside Claude Code. Drop your video into Claude, type `/effects` and the name of an effect. That's the whole edit.
-
-Made by [@vibha.in.progress](https://instagram.com/vibha.in.progress) 💛
-
-> **Want the full studio?** These are the free starter versions from **[Hop Studio, my AI video editing studio inside Claude](https://vibha.is/ai-video-studio?source=effects-repo)**: 220+ video effects, 30+ caption styles and 150 sound effects, with sound design and hand-tuned timing. It runs on the Claude plan you already have.
 
 ![The first 45 effects](assets/preview.jpg)
 
